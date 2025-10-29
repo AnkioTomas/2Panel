@@ -4,3 +4,12 @@
 [submodule "src/nova/framework"]
 	path = src/nova/framework
 	url = https://github.com/NovaPHPOrg/nova-framework
+[submodule "src/app/static/components/language"]
+	path = src/app/static/components/language
+	url = https://git.ankio.icu/nova-ui/nova-language
+[submodule "src/app/static/components/theme"]
+	path = src/app/static/components/theme
+	url = https://git.ankio.icu/nova-ui/nova-theme
+[submodule "src/app/static/components/pjax"]
+	path = src/app/static/components/pjax
+	url = https://git.ankio.icu/nova-ui/nova-pjax
