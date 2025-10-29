@@ -1,0 +1,24 @@
+{
+    "name": "2-paenl",
+    "description": "旨在增强Linux本身的软件包安装及管理",
+    "version": "1.0.0",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nova Team",
+            "email": "ankio@ankio.net"
+        }
+    ],
+    "require": {
+        "php": ">=8.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "src\/app"
+        }
+    },
+    "config": {
+        "vendor-dir": "\/src\/vendor"
+    }
+}

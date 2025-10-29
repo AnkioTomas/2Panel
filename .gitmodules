@@ -1,0 +1,3 @@
+[submodule "src/app/static/framework"]
+	path = src/app/static/framework
+	url = https://git.ankio.icu/nova-ui/framework
