@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1d2443fd-87cb-4566-9f53-ad9275ba39da" name="sftp" url="http://2panel.ankio.net">
+        <fileTransfer rootFolder="/www/1panel/www/sites/2panel.ankio.net/index" accessType="SFTP" host="149.104.27.145" port="22" sshConfigId="a763c109-cbb6-40fb-8f72-f2ad0e20bb03" sshConfig="root@149.104.27.145:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

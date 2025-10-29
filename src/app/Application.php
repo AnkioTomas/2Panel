@@ -59,6 +59,7 @@ EOF;
     public function onFrameworkStart(): void
     {
         $this->routeStatic();
+        Route::getInstance()->get("/",route("index","main","index"));
 
     }
 }
